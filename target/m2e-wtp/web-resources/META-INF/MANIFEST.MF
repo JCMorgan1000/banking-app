@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: banking-app
+Implementation-Version: 1.0
+Built-By: JCMorgan
+Implementation-Vendor-Id: com.jcmorgan
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/banking-app
+Created-By: Maven Integration for Eclipse
+
